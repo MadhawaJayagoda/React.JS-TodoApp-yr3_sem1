@@ -3,22 +3,6 @@ import TodoItem from "./TodoItem";
 import './TodoList.css';
 import FlipMove from 'react-flip-move';
 
-/*
-*
-*
-* ----------------------------------------  Student Details --------------------------------------
-
-Application Frameworks : Mid Exam Assignment
-
- > Student Registration Number :  IT17184304
- > Student Name                :  Jayagoda N.M.
-
- (  SLIIT 3rd Year 1st semester Software Engineering Weekday Batch - Y3S1.20.1  )
- *
- *
- *
-* */
-
 class TodoList extends Component {
     constructor(props) {
         super(props);
