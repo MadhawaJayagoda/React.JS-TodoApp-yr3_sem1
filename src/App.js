@@ -4,22 +4,6 @@ import TodoList from "./components/TodoList";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
-/*
-*
-*
-* ----------------------------------------  Student Details --------------------------------------
-
-Application Frameworks : Mid Exam Assignment
-
- > Student Registration Number :  IT17184304
- > Student Name                :  Jayagoda N.M.
-
- (  SLIIT 3rd Year 1st semester Software Engineering Weekday Batch - Y3S1.20.1  )
- *
- *
- *
-* */
-
 class App extends Component {
 
     constructor(props) {
@@ -142,18 +126,3 @@ class App extends Component {
 }
 
 export default App;
-/*
-*
-*
-* ----------------------------------------  Student Details --------------------------------------
-
-Application Frameworks : Mid Exam Assignment
-
- > Student Registration Number :  IT17184304
- > Student Name                :  Jayagoda N.M.
-
- (  SLIIT 3rd Year 1st semester Software Engineering Weekday Batch - Y3S1.20.1  )
- *
- *
- *
-* */
