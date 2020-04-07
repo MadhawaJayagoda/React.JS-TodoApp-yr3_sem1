@@ -1,0 +1,12 @@
+.card.card-body.my-3{
+    background-color: #BDBDBD;
+}
+
+.form-control.text-capitalize{
+    background-color: #EEEEEE;
+    border-radius: 8px;
+}
+
+#input-button{
+    border-radius: 5px;
+}

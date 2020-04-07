@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.card.view{
+    margin: 20px auto;
+    border-radius: 40px;
+}
+
+.desc{
+    padding: 10px;
+    font-family: "Open Sans";
+}
+
+.listItems.card-body{
+    background-color: #EEEEEE;
+    border-radius: 40px;
+}
+
+.mx-2.text-success{
+    position: absolute;
+    right: 2px;
+    padding-right: 40px;
+}
+
+.mx-2.text-danger{
+    position: absolute;
+    right : 10px;
+}
